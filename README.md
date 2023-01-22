@@ -6,8 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-DD5454?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/melqui_m4rtins/)
 ##
 <div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melqui42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=melqui42&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=melqui42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="45%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=melqui42&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
